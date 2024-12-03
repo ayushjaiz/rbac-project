@@ -225,7 +225,7 @@ POST /api/moderator-dashboard
 
 ## Deployment
 
-This app is deployed on render: https://rag-chatbot-0fjv.onrender.com
+This app is deployed on render: https://rbac-t47d.onrender.com
 
 ---
 
