@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from "express";
-import { verifyToken } from "../utils/jwt"; // Assuming you have a utility to verify the token
+import { verifyToken } from "../utils/jwt";
 import { Role } from "@prisma/client";
 
 declare global {

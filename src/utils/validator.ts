@@ -6,7 +6,7 @@ function validateEmail(email: string): boolean {
 }
 
 // Regular expression for password validation (5 letters)
-const passwordRegex: RegExp = /^[a-zA-Z]{6,}$/;
+const passwordRegex: RegExp = /^.{6,}$/;
 
 function validatepassword(password: string): boolean {
     return passwordRegex.test(password);
